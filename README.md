@@ -29,3 +29,8 @@ Use git clone https://github.com/<CCC or akshaynexus>/CCC-Android.git
 git submodule init
 
 git submodule update
+
+
+Release Management
+
+The app is available for download via the google play store.
